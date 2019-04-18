@@ -1,14 +1,4 @@
-<html>
-<head>
-<title>HTML</title>
-</head>
-<body>
-
-<h1>My ROll number is 2k17/csee/80</h1>
-<p>My Name is RAEES WALI MUHAMMAD.</p>
+<h1>My ROll number is 2k17/csee/78</h1>
+<p>My Name is  Noor Channa.</p>
 <a href="https://www.google.com/"> GOOGLE.COM </a>
-<b> RAEES WALI MUHAMMAD </b>
-
-
-</body>
-</html>
+<b> bold writing name Noor </b>
